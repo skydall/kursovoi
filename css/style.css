@@ -301,3 +301,79 @@ line-height: 31px;
 letter-spacing: 0.02em;
 color: #000000;
 }
+/* СЕКЦИЯ 8 */
+.section8 {
+margin-top: 40px;
+margin-bottom: 100px;
+}
+.section8_1 {
+width: 500px;
+}
+.section8_1 hr{
+width: 100px;
+color:red;
+border: 1px solid;
+}
+.section8_1 h3 {
+font-style: normal;
+font-weight: 500;
+font-size: 36px;
+line-height: 53px;
+text-transform: uppercase;
+color: #000000;
+}
+.section8_2 {
+display:flex;
+justify-content: space-between;
+}
+.section8_2_1 {
+margin-top: 5%;
+}
+.section8_2_1 input {
+width: 200px;
+border: oldlace solid 1px;
+height: 15%;
+background-color: #ececec
+}
+.section8_2_1 button {
+margin-top: 20px;
+width:415px;
+transition: 1s;
+}
+.section8_2_1 button:hover {
+transform: scale(1.2);
+}
+#textarea {
+margin-top: 5%;
+width: 410px;
+height: 50%;
+}
+.section8_2_2 {
+background-color: #242525;
+width: 300px;
+opacity: 0.95;
+padding: 10% 10%;
+}
+.section8_2_2 h4 {
+font-weight: 700;
+font-size: 30px;
+color:#ececec;
+margin-bottom: 30px;
+}
+.section8_2_2 p {
+color:#ececec;
+margin-bottom: 10px;
+
+}
+.section8_2_1 button {
+border-radius: 5px;
+background-color: #ff2d2d;
+color: #ffffff;
+font-size: 14px;
+font-weight: 300;
+line-height: 34.06px;
+/* Text style for "C, ontact" */
+letter-spacing: 0.32px;
+border: 0px solid;
+width: 150px;
+}
