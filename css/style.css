@@ -377,3 +377,15 @@ letter-spacing: 0.32px;
 border: 0px solid;
 width: 150px;
 }
+.calc img {        display: none;
+    margin: 0 auto;
+}
+.fot {
+display: flex;
+justify-content: space-between;
+color:whitesmoke
+}
+footer {
+padding: 20px 0px;
+background: #404149;
+}
